@@ -1,0 +1,58 @@
+## China:
+- All Gamers: 1119
+- Xi Lai Gaming: 13581
+- EDward Gaming: 1120
+- Bilibili Gaming: 12010
+- Dragon Ranger Gaming: 11981
+- TYLOO: 731
+- Trace Esports: 12685
+- JDG Esports: 13576
+- Wolves Esports: 13790
+- Titan Esports Club: 14137
+- Nova Esports: 12064
+- FunPlus Phoenix: 11328
+## EMEA:
+- BBL Esports: 397
+- Gentle Mates: 12694
+- Fnatic: 2593
+- Team Liquid: 474
+- Team Vitality: 2059
+- Team Heretics: 1001
+- Natus Vincere: 4915
+- Giantx: 14419
+- Karmine Corp: 8877
+- ULF Esports: 18019
+- FUT Esports: 1184
+- PCIFIC Esports: 3478
+- KOI: 7035
+- Apeks: 11479
+## Pacific:
+- Nongshim RedForce: 11060
+- T1: 14
+- Paper Rex: 624
+- Rex Regum Qeon: 878
+- Detonation FocusMe: 278
+- DRX: 8185
+- Full Sense: 4050
+- Global Esports: 918
+- Zeta Division: 5448
+- Gen.G: 17
+- Team Secret: 6199
+- VARREL: 11229
+- Talon: 8304
+- BOOM Esports: 466
+- BLEED: 6387
+## Americas:
+- Furia: 2406
+- G2 Esports: 11058 
+- MIBR: 7386
+- NRG: 1034
+- 100 Thieves: 120
+- Cloud9: 188
+- Evil Geniuses: 5248
+- Leviatán: 2359
+- ENVY: 427
+- Sentinels: 2
+- LOUD: 6961
+- KRÜ Esports: 2355
+- 2Game Esports: 15072
