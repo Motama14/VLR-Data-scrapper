@@ -14,11 +14,11 @@ for i in range(1,10):
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    cont_equipo1 = soup.find("div", class_="match-header-link-name mod-1")
-    cont_equipo2 = soup.find("div", class_="match-header-link-name mod-2")
+    cont_team1 = soup.find("div", class_="match-header-link-name mod-1")
+    cont_team2 = soup.find("div", class_="match-header-link-name mod-2")
 
-    equipo1 = cont_equipo1.find("div", class_="wf-title-med").text.strip()
-    equipo2 = cont_equipo2.find("div", class_="wf-title-med").text.strip()
+    team1 = cont_team1.find("div", class_="wf-title-med").text.strip()
+    team2 = cont_team2.find("div", class_="wf-title-med").text.strip()
 
     cont_score = soup.find("span", class_="match-header-vs-score-colon")
     
@@ -28,8 +28,8 @@ for i in range(1,10):
     res1 = cont1.text.strip()
     res2 = cont2.text.strip()
     
-    print("Equipo 1: " +equipo1+ ":" +str(res1))
-    print("Equipo 2: " +equipo2+ ":" +str(res2))
+    print("Equipo 1: " +team1+ ":" +str(res1))
+    print("Equipo 2: " +team2+ ":" +str(res2))
     id += 1
     if id == 595640:
         id += 1
